@@ -1,6 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Nunito+Sans:400,600,800&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Eczar:400,500,600,700,800&display=swap');
-
+@font-face {
+    font-family: 'arsatregular';
+    src: url('../font/arsat/arsat-webfont.woff2') format('woff2'),
+         url('../font/arsat/arsat-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
 
 /*!
  *  Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome
